@@ -2,6 +2,7 @@ body {
    display: flex;
    justify-content: center;
    align-items: center;
+   text-align: center;
    height: 100vh;
    margin: 0;
    background-color: #222;
@@ -24,6 +25,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    caret-color: palegreen;
 }
 
 button {
@@ -63,6 +65,7 @@ h1 .temp {
 .flex {
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .description {
